@@ -6,3 +6,7 @@ class Dog {
   }
 }
 
+let bigFluffyDog1 = new Dog("Buzz", "greetPyrenees");
+let bigFluffyDog2 = new Dog("Woody", "labrador");
+bigFluffyDog1;
+bigFluffyDog2;
